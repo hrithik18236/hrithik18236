@@ -2,7 +2,7 @@
 - 👀 I’m interested in exploring new fields of AI, Deep Learning and Computer Vision.
 - 🌱 I’m currently learning Collaborative Filtering techniques to accomodate my computer vision knowledge.
 - 💞️ I’m looking to collaborate on *anything*. It just has to be interesting ;)
-- 📫 How to reach me: You can reach me on <a href="https://www.linkedin.com/in/hrithik-malhotra-aa4a04137/">LinkedIn or here itself if you wanna talk!
+- 📫 How to reach me: You can reach me here or on <a href="https://www.linkedin.com/in/hrithik-malhotra-aa4a04137/">LinkedIn!
 
 ![](https://komarev.com/ghpvc/?username=hrithik18236&color=blueviolet)
 
